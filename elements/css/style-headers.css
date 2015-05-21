@@ -1,0 +1,106 @@
+.wrapper.grey {
+	background: #ECF0F1;
+	border-top: 1px solid #d3d9dd;
+	border-bottom: 1px solid #d3d9dd;
+}
+
+.navbar.plain .navbar-nav a {
+	color: #7F8C8D;
+	text-transform: uppercase;
+	font-weight: normal;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: #fff;
+}
+
+.navbar.plain .navbar-nav, .navbar-grey .navbar-nav {
+	margin-top: 15px;
+}
+
+.navbar.plain .navbar-brand {
+	color: #34495E;
+	line-height: 50px;
+}
+
+.navbar-grey .navbar-brand {
+	line-height: 50px;
+	font-weight: normal;
+}
+
+.navbar.plain .navbar-brand img, .navbar-grey .navbar-brand img {
+	float: left;
+	margin-right: 15px;
+}
+
+.navbar.navbar-grey {
+	background: #3e3e3e !important;
+}
+
+.navbar.navbar-none {
+	background: none !important;
+}
+
+.navbar-grey .navbar-nav > .active > a, .navbar-grey .navbar-nav > .active > a:hover, .navbar-grey .navbar-nav > .active > a:focus {
+	background: #fff;
+	color: #3e3e3e;
+}
+
+/* end general styles */
+
+
+/* headers */
+
+.wrapper.image {
+	position: relative;
+	width: 100%;
+	z-index: 100;
+	color: #fff;
+}
+
+.wrapper.image1 .container {
+	padding-top: 260px;
+	padding-bottom: 260px;
+}
+
+.wrapper.image2 .container {
+	padding-top: 25px;
+	padding-bottom: 100px;
+}
+
+.wrapper.image .container p {
+	font-size: 18px;
+}
+
+.wrapper.image .bg {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+}
+
+.wrapper.image .bg1 {
+	background: url(../images/picture1.jpg) no-repeat scroll 50% 50% / cover  rgba(0, 0, 0, 0);
+}
+
+.wrapper.image .bg2 {
+	background: url(../images/picture2.jpg) no-repeat scroll 50% bottom / cover  rgba(0, 0, 0, 0);
+}
+
+.banner h1 {
+	margin: 80px 0px 80px 0px;
+	font-weight: normal;
+}
+
+.banner2 h1 {
+	margin: 80px 0px 10px 0px;
+}
+
+.banner2 {
+	margin-bottom: 80px;
+}
+
+.banner2 p {
+	margin-top: 0px;
+}

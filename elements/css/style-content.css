@@ -1,0 +1,11 @@
+.col {
+	margin: 0px 10px;
+	padding: 20px;
+}
+
+.wrapper.grey {
+	background: #ECF0F1;
+	border-top: 1px solid #d3d9dd;
+	border-bottom: 1px solid #d3d9dd;
+	padding: 80px 0px;
+}

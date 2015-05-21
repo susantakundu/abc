@@ -1,0 +1,45 @@
+var _Elements = {"elements": {
+    "Headers":[
+    	{"url":"elements/header1.html","height":522},
+    	{"url":"elements/header2.html","height":568},
+    	{"url":"elements/header3.html","height":1029},
+    	{"url":"elements/header4.html","height":732}
+    ],
+    "Intro":[
+        {"url":"elements/header1.html","height":522},
+        {"url":"elements/header2.html","height":568},
+        {"url":"elements/header3.html","height":1029},
+        {"url":"elements/header4.html","height":732}
+    ],
+    "Content Sections":[
+    	{"url":"elements/content_section1.html","height":481},
+    	{"url":"elements/content_section2.html","height":520},
+    	{"url":"elements/content_section3.html","height":894},
+    	{"url":"elements/content_section4.html","height":331},
+    	{"url":"elements/content_section5.html","height":846}
+    ],
+    "Portfolios":[
+    	{"url":"elements/portfolio1.html","height":701},
+    	{"url":"elements/portfolio2.html","height":799},
+    	{"url":"elements/portfolio3.html","height":516}
+    ],
+    "Team":[
+    	{"url":"elements/team1.html","height":644},
+    	{"url":"elements/team2.html","height":810},
+    	{"url":"elements/team3.html","height":752}
+    ],
+    "Pricing Tables":[
+    	{"url":"elements/pricing_table1.html","height":628},
+    	{"url":"elements/pricing_table2.html","height":750},
+    	{"url":"elements/pricing_table3.html","height":721}
+    ],
+    "Contact":[
+    	{"url":"elements/contact1.html","height":748},
+    	{"url":"elements/contact2.html","height":477}
+    ],
+    "Footers":[
+    	{"url":"elements/footer1.html","height":364},
+    	{"url":"elements/footer2.html","height":172}
+    ]
+    }
+}
